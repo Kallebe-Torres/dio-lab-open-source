@@ -5,6 +5,14 @@
 <p><em>(Belém, PA - Brasil)</em></p>
 
 <h2>🔌Conecte-se Comigo / Connect with me</h2>
+
+<h2>Sobre</h2>
+<p>Sou desenvolvedor de software e comecei a me interessar por programação em 2022, durante o período da pandemia. Desde então, me aprofundei em JavaScript, HTML e CSS, criando diversos projetos pequenos. Neste ano, iniciei a graduação em Sistemas de Informação, o que tem sido um aprimoramento fundamental na minha jornada como programador.
+
+Uma das coisas que mais valorizo é a comunicação e a iteração em trabalhos em equipe. Acredito que compreender críticas construtivas é essencial para o crescimento profissional. Em 2024, tive a oportunidade de estagiar na empresa C2A Soluções em Tecnologia. No início do estágio, como suporte de TI, recebi muitos feedbacks valiosos dos meus supervisores e colegas, que me ajudaram a aprimorar meu desempenho. Ao ouvir atentamente essas orientações, consegui melhorar significativamente e, como resultado, recebi elogios dos meus supervisores.
+
+Sou flexível e me adapto bem às demandas do setor, buscando sempre aprender e me desenvolver. A cada dia, me esforço para adquirir novos conhecimentos e habilidades.</p>
+
 <p align="left">
   <a href="https://www.linkedin.com/in/kallebe-jess%C3%A9-torres-e-silva-082457210"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:kallebebbox@gmail.com"><img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail"></a>
