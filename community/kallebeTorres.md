@@ -13,18 +13,12 @@
   <a href=""><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio"></a>
 </p>
 
-## Sobre
-Sou desenvolvedor de software e comecei a me interessar por programação em 2022, durante o período da pandemia. Desde então, me aprofundei em JavaScript, HTML e CSS, criando diversos projetos pequenos. Neste ano, iniciei a graduação em Sistemas de Informação, o que tem sido um aprimoramento fundamental na minha jornada como programador.
+## Git Stat
+![Kallebe_Torres's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kallebe-Torres&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=79ff97&border_color=6f42c1)
 
-Uma das coisas que mais valorizo é a comunicação e a iteração em trabalhos em equipe. Acredito que compreender críticas construtivas é essencial para o crescimento profissional. Em 2024, tive a oportunidade de estagiar na empresa C2A – Soluções em Tecnologia. No início do estágio, como suporte de TI, recebi muitos feedbacks valiosos dos meus supervisores e colegas, que me ajudaram a aprimorar meu desempenho. Ao ouvir atentamente essas orientações, consegui melhorar significativamente e, como resultado, recebi elogios dos meus supervisores.
-
-Sou flexível e me adapto bem às demandas do setor, buscando sempre aprender e me desenvolver. A cada dia, me esforço para adquirir novos conhecimentos e habilidades.
 
 ## habilidades
-### Linguagem de Marcação
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
 ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://github.com/Kallebe-Torres) ![Figma](https://img.shields.io/badge/Figma-696969?style=for-the-badge&logo=figma&logoColor=figma)
 
-## 📚 Idiomas
-- Português (Fluente)
